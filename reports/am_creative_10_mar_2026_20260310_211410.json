@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "industry": "Photography & Videography",
+    "business_model": "Service-based",
+    "target_audience": "Brands and businesses seeking high-quality product and campaign photography",
+    "offer_clarity_score": 6,
+    "tone": "Professional",
+    "value_proposition": "Premium visual content creation for effective brand storytelling",
+    "CTA_strength": 4,
+    "trust_signals": [],
+    "strengths": [
+      "Specialization in creative ad photography",
+      "Focus on premium visuals",
+      "Experience in campaign shoots"
+    ],
+    "weaknesses": [
+      "Low brand awareness on social media",
+      "Lack of engagement from followers",
+      "Limited trust signals or testimonials"
+    ],
+    "diagnostic_summary": "Am Creative is positioned in the Photography & Videography industry, focusing on premium visual content for brands. However, the brand struggles with low awareness and engagement on social media, indicating a need for improved content strategy and audience interaction to enhance visibility and connection with potential clients."
+  },
+  "seo": {
+    "seo_health_score": 45,
+    "keyword_alignment": "Medium",
+    "intent_match_quality": "Moderate",
+    "ranking_risk": "Medium",
+    "seo_weaknesses": [
+      "Lack of structured content on the website",
+      "Insufficient depth in content to engage users",
+      "Weak heading hierarchy leading to poor semantic clarity",
+      "Limited semantic keyword usage beyond primary keywords",
+      "Inconsistent posting frequency and content themes"
+    ],
+    "seo_topics": [
+      {
+        "title": "The Art of Creative Ad Photography",
+        "intent_type": "Informational",
+        "content_angle": "Exploring techniques and trends in creative ad photography that resonate with modern audiences.",
+        "why_relevant_now": "As visual content continues to dominate digital marketing, understanding the nuances of creative ad photography is essential for brands looking to stand out."
+      },
+      {
+        "title": "Campaign Strategies for Visual Storytelling",
+        "intent_type": "Transactional",
+        "content_angle": "How to effectively use visual storytelling in campaigns to enhance brand engagement and conversion.",
+        "why_relevant_now": "With the rise of AI-driven content personalization, brands need to leverage storytelling to connect with their audience on a deeper level."
+      },
+      {
+        "title": "Premium Visuals: The Future of Brand Identity",
+        "intent_type": "Commercial",
+        "content_angle": "Discussing the importance of high-quality visuals in establishing a strong brand identity in a competitive market.",
+        "why_relevant_now": "As consumers become more discerning, premium visuals are crucial for brands to convey authenticity and quality."
+      }
+    ]
+  },
+  "scores": {
+    "Awareness_with_Emotion": {
+      "score": 40,
+      "reason": "The brand has low awareness on social media and lacks engagement, indicating a generic tone and inconsistent storytelling."
+    },
+    "Positioning_with_Insight": {
+      "score": 70,
+      "reason": "The brand has a clear value proposition and specialization in creative ad photography, but may lack strong differentiation and original strategic insight."
+    },
+    "Logic_with_Trust": {
+      "score": 30,
+      "reason": "The brand has no visible trust signals or testimonials, leading to claims without proof and a lack of evidence structure."
+    },
+    "Lead_with_Value": {
+      "score": 50,
+      "reason": "The value proposition is clear, but the CTA strength is low and the offer lacks clarity, resulting in weak call-to-action alignment."
+    }
+  },
+  "diagnosis": {
+    "primary_mode": "Stabilize",
+    "secondary_mode": "Stabilize",
+    "strategic_priority": "Enhance brand awareness and trust signals while clarifying messaging.",
+    "risk_level": "Medium",
+    "immediate_actions": [
+      "Develop a structured content strategy to improve social media engagement.",
+      "Create and showcase case studies or testimonials to build trust.",
+      "Refine brand messaging to ensure clarity and emotional resonance."
+    ],
+    "reasoning": "The brand is currently facing challenges with low awareness and engagement, indicating a need for repositioning to clarify its message and strengthen its emotional connection with the audience. Additionally, the lack of trust signals suggests a need for stabilization efforts to build credibility and reliability in the market.",
+    "pillar_permutation": {},
+    "demand_validation": {
+      "demand_status": "Unclear",
+      "demand_strength_score": 57.62,
+      "problem_market_fit": "Moderate",
+      "offer_market_alignment": "Moderate",
+      "risk_flag": "Moderate Risk",
+      "strategic_implication": "Mixed demand signals. Run structured demand testing before scaling."
+    }
+  }
+}

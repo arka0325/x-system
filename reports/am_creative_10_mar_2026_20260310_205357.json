@@ -1,0 +1,94 @@
+{
+  "brand": {
+    "industry": "Photography & Videography",
+    "business_model": "Service-based",
+    "target_audience": "Brands and businesses seeking high-quality product and campaign photography",
+    "offer_clarity_score": 7,
+    "tone": "Professional",
+    "value_proposition": "Premium visual content creation for effective brand storytelling",
+    "CTA_strength": 5,
+    "trust_signals": [],
+    "strengths": [
+      "Specialized in creative ad photography",
+      "Focus on premium visuals",
+      "Experience in campaign direction"
+    ],
+    "weaknesses": [
+      "Low engagement on social media",
+      "Limited brand awareness",
+      "Potentially unclear differentiation from competitors"
+    ],
+    "diagnostic_summary": "Am Creative is positioned in the Photography & Videography industry, focusing on premium visual content for brands. While the offer is clear, the brand struggles with engagement and awareness on social media, indicating a need for improved content strategy and audience interaction."
+  },
+  "seo": {
+    "seo_health_score": 65,
+    "keyword_alignment": "Medium",
+    "intent_match_quality": "Moderate",
+    "ranking_risk": "Medium",
+    "seo_weaknesses": [
+      "Lack of structured content on the website",
+      "Insufficient depth in topic coverage",
+      "Limited semantic keyword usage beyond primary focus"
+    ],
+    "seo_topics": [
+      {
+        "title": "Creative Ad Photography Techniques",
+        "intent_type": "Informational",
+        "content_angle": "Exploring innovative techniques in creative ad photography that resonate with modern marketing strategies.",
+        "why_relevant_now": "As brands increasingly seek unique visual content to stand out in a saturated market, understanding advanced photography techniques is crucial for engagement."
+      },
+      {
+        "title": "The Role of Creative Direction in Campaign Success",
+        "intent_type": "Educational",
+        "content_angle": "Discussing how effective creative direction can elevate marketing campaigns and enhance brand storytelling.",
+        "why_relevant_now": "With the rise of AI-driven content creation, understanding human-led creative direction is essential for maintaining authenticity and connection with audiences."
+      },
+      {
+        "title": "Visual Trends in Digital Marketing for 2026",
+        "intent_type": "Trends",
+        "content_angle": "Analyzing the latest visual trends that are shaping digital marketing strategies this year.",
+        "why_relevant_now": "Staying ahead of visual trends is vital for brands looking to capture attention and drive engagement in an evolving digital landscape."
+      }
+    ]
+  },
+  "scores": {
+    "Awareness_with_Emotion": {
+      "score": 40,
+      "reason": "The brand has a professional tone but lacks a clear emotional trigger and consistent storytelling, leading to low engagement and limited brand awareness."
+    },
+    "Positioning_with_Insight": {
+      "score": 60,
+      "reason": "The brand has a defined target audience and offers premium visuals, but struggles with differentiation and original strategic insight, which may lead to generic market language."
+    },
+    "Logic_with_Trust": {
+      "score": 30,
+      "reason": "There are no visible case studies or authority markers, and the brand lacks proof-backed messaging, resulting in low trust coherence."
+    },
+    "Lead_with_Value": {
+      "score": 50,
+      "reason": "While the value proposition is clear, the call-to-action strength is weak, and the offer could benefit from clearer outcome visibility and benefit clarity."
+    }
+  },
+  "diagnosis": {
+    "primary_mode": "Stabilize",
+    "secondary_mode": "",
+    "strategic_priority": "Enhance brand clarity and emotional engagement.",
+    "risk_level": "Medium",
+    "immediate_actions": [
+      "Develop a clear emotional narrative that resonates with the target audience.",
+      "Create case studies and authority markers to build trust.",
+      "Refine the brand positioning to highlight unique differentiators.",
+      "Strengthen the call-to-action and clarify the benefits of the service."
+    ],
+    "reasoning": "The brand's current positioning is weak, with low emotional engagement and trust coherence. The demand validation indicates mixed signals, and the Four Pillar Scores highlight significant areas for improvement in awareness, trust, and value perception. A repositioning strategy is necessary to clarify the brand message and enhance emotional connection with the audience.",
+    "pillar_permutation": {},
+    "demand_validation": {
+      "demand_status": "Unclear",
+      "demand_strength_score": 59.75,
+      "problem_market_fit": "Moderate",
+      "offer_market_alignment": "Strong",
+      "risk_flag": "Moderate Risk",
+      "strategic_implication": "Mixed demand signals. Run structured demand testing before scaling."
+    }
+  }
+}

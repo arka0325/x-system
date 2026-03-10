@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "industry": "Photography & Videography",
+    "business_model": "Service-based",
+    "target_audience": "Brands and businesses looking for premium visual content for campaigns and creative direction",
+    "offer_clarity_score": 6,
+    "tone": "Professional",
+    "value_proposition": "High-quality creative ad photography and campaign shoots tailored for brands in the Delhi NCR region.",
+    "CTA_strength": 4,
+    "trust_signals": [],
+    "strengths": [
+      "Niche focus on premium visuals",
+      "Creative direction expertise",
+      "Location-based service in a metropolitan area"
+    ],
+    "weaknesses": [
+      "Low brand awareness",
+      "Limited engagement on social media",
+      "Need for clearer calls to action"
+    ],
+    "diagnostic_summary": "Am Creative is positioned in the Photography & Videography industry, focusing on premium visual content for brands. However, the brand struggles with low awareness and engagement, indicating a need for improved marketing strategies and clearer communication of its value proposition."
+  },
+  "seo": {
+    "seo_health_score": 55,
+    "keyword_alignment": "Medium",
+    "intent_match_quality": "Moderate",
+    "ranking_risk": "Medium",
+    "seo_weaknesses": [
+      "Lack of structured content on the website",
+      "Insufficient depth in content related to services offered",
+      "Limited semantic keyword usage beyond primary keywords",
+      "Weak heading hierarchy that does not guide user navigation effectively"
+    ],
+    "seo_topics": [
+      {
+        "title": "Creative Ad Photography Techniques",
+        "intent_type": "Informational",
+        "content_angle": "Exploring innovative techniques in creative ad photography that resonate with modern marketing needs.",
+        "why_relevant_now": "As brands increasingly seek unique visual content to stand out, providing insights into creative ad photography can attract potential clients and establish authority in the niche."
+      },
+      {
+        "title": "The Role of Creative Direction in Campaign Success",
+        "intent_type": "Informational",
+        "content_angle": "Discussing how effective creative direction can enhance advertising campaigns and drive engagement.",
+        "why_relevant_now": "With the rise of AI-driven marketing strategies, understanding the human element of creative direction is crucial for brands looking to connect authentically with their audience."
+      },
+      {
+        "title": "Visual Storytelling in Digital Marketing",
+        "intent_type": "Informational",
+        "content_angle": "Analyzing the impact of visual storytelling on consumer behavior and brand loyalty.",
+        "why_relevant_now": "As visual content continues to dominate social media platforms, brands need to leverage storytelling to create deeper connections with their audience."
+      }
+    ]
+  },
+  "scores": {
+    "Awareness_with_Emotion": {
+      "score": 40,
+      "reason": "The brand has low awareness and limited engagement on social media, indicating a lack of clear emotional triggers and inconsistent storytelling."
+    },
+    "Positioning_with_Insight": {
+      "score": 70,
+      "reason": "The brand has a niche focus on premium visuals and creative direction expertise, but lacks strong differentiation and original strategic insight."
+    },
+    "Logic_with_Trust": {
+      "score": 30,
+      "reason": "There are no visible case studies or trust signals, and the brand's claims lack proof, leading to a low trust coherence strength."
+    },
+    "Lead_with_Value": {
+      "score": 50,
+      "reason": "The value proposition is somewhat clear, but the call to action is weak and the offer lacks clarity, impacting overall value perception."
+    }
+  },
+  "diagnosis": {
+    "primary_mode": "Stabilize",
+    "secondary_mode": "Stabilize",
+    "strategic_priority": "Run structured demand testing and improve brand messaging.",
+    "risk_level": "Medium",
+    "immediate_actions": [
+      "Conduct structured demand testing to clarify market fit.",
+      "Enhance emotional storytelling in marketing materials.",
+      "Develop case studies or testimonials to build trust.",
+      "Refine calls to action to improve engagement."
+    ],
+    "reasoning": "The brand is currently facing unclear messaging and weak positioning, as indicated by low awareness and trust scores. The demand validation shows mixed signals, suggesting a need for repositioning to clarify the brand's value proposition and emotional appeal. Stabilizing efforts are also necessary to build on existing traction while addressing inconsistencies in structure and clarity.",
+    "pillar_permutation": {},
+    "demand_validation": {
+      "demand_status": "Unclear",
+      "demand_strength_score": 57.62,
+      "problem_market_fit": "Moderate",
+      "offer_market_alignment": "Moderate",
+      "risk_flag": "Moderate Risk",
+      "strategic_implication": "Mixed demand signals. Run structured demand testing before scaling."
+    }
+  }
+}
